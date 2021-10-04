@@ -1,12 +1,12 @@
 {
-  "name": "angular-utils",
-  "version": "0.0.1",
+  "name": "angular-utility-methods",
+  "version": "0.0.2",
   "peerDependencies": {
     "@angular/common": "^9.0.7",
     "@angular/core": "^9.0.7",
     "tslib": "^1.10.0"
   },
-  "description": "Angular utils provided with some basic utility methods for code reusabilty.",
+  "description": "The library contains some basic utility methods for code reusability.",
   "author": {
     "name": "Abishek Ravichandiran",
     "email": "abishekrabs@gmail.com"

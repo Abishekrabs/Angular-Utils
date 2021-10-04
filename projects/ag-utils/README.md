@@ -1,6 +1,6 @@
 # Angular Utils
 
-Angular Utils is an Angular library which provides some basic utility methods used in typescript to reduce the code complexity. In addition, this npm is very much useful for code reusabilty by reducing the development time and effort because of the predefined utiliy methods.
+Angular Utils is an Angular library that provides some basic utility methods used in typescript to reduce code complexity. In addition, this npm is very much useful for code reusability as it reduces the development time and effort because of the predefined utility methods.
 
 [![Known Vulnerabilities](https://snyk.io/test/npm/encrypt-webstorage/0.0.4/badge.svg)](https://snyk.io/test/npm/encrypt-webstorage/0.0.4)
 
@@ -9,7 +9,7 @@ Angular Utils is an Angular library which provides some basic utility methods us
 Use the package manager [npm](https://www.npmjs.com/) to install Encrypted Web Storage.
 
 ```npm
-npm install angular-utils@latest
+npm install angular-utility-methods@latest
 ```
 
 ## Usage
