@@ -70,9 +70,9 @@ export class AgUtils {
     return objectArray;
   }
 
-  static formatDateString(dateString: string, inputFormat: string): string {
+  static formatDateString(dateString: string, outputFormat: string): string {
     if (this.isStringValid(dateString)) {
-      return formatDate(new Date(dateString), inputFormat, 'en');
+      return formatDate(new Date(dateString), outputFormat, 'en');
     }
     return dateString;
   }
