@@ -17,7 +17,7 @@ npm install angular-utility-methods@latest
 #### For Angular Utils usage ########
 
 ```javascript
-import { AgUtils } from 'angular-utils';
+import { AgUtils } from 'angular-utility-methods';
 
 AgUtils.numberWithCommas(1456783); // returns "1,456,783"
 AgUtils.removeCurrencyFormatting("$25,000"); // returns "25000"
