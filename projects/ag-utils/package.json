@@ -1,6 +1,6 @@
 {
   "name": "angular-utility-methods",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "peerDependencies": {
     "@angular/common": "^9.0.7",
     "@angular/core": "^9.0.7",
@@ -10,5 +10,10 @@
   "author": {
     "name": "Abishek Ravichandiran",
     "email": "abishekrabs@gmail.com"
-  }
+  },
+  "keywords": [
+    "Angular",
+    "Utils",
+    "Utility"
+  ]
 }

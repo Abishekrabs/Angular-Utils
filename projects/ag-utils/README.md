@@ -6,7 +6,7 @@ Angular Utils is an Angular library that provides some basic utility methods use
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install Encrypted Web Storage.
+Use the package manager [npm](https://www.npmjs.com/) to install Angular Utils.
 
 ```npm
 npm install angular-utility-methods@latest
